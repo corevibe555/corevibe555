@@ -3,16 +3,13 @@ Place this file in a repo named <your-username>/<your-username>
 It will render on your GitHub profile.
 -->
 
-<h1 align="center">Hi, I'm Oleksii Korenovskyi 👋</h1>
+<h1 align="center">Hello, world! 👋</h1>
 <p align="center">
   Senior Software Engineer • Full-Stack JS • AI & Crypto/Trading
-  <br/>
-  Encino, CA · U.S. remote friendly
 </p>
 
 <p align="center">
-  <a href="mailto:agencybusiness320@outlook.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/your-handle">LinkedIn</a> ·
+  <a href="mailto:seniorcoder04@gmail.com">Email</a> ·
   <a href="https://your-portfolio.com">Portfolio</a> ·
   <a href="https://github.com/your-username">GitHub</a>
 </p>
