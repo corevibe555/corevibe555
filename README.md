@@ -10,8 +10,8 @@ It will render on your GitHub profile.
 
 <p align="center">
   <a href="mailto:seniorcoder04@gmail.com">Email</a> ·
-  <a href="https://your-portfolio.com">Portfolio</a> ·
-  <a href="https://github.com/your-username">GitHub</a>
+  <!-- <a href="https://your-portfolio.com">Portfolio</a> · -->
+  <!-- <a href="https://github.com/your-username">GitHub</a> -->
 </p>
 
 ---
