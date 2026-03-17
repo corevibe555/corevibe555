@@ -18,7 +18,7 @@ It will render on your GitHub profile.
 
 ### 🚀 About
 I build fast, resilient, and secure products across web, mobile, and cloud. My sweet spot:
-**TypeScript/React/Next.js + Node.js** on **AWS/Azure**, with hands-on **AI/LLM** features
+**TypeScript/React/Next.js + Node.js/C#/Python** on **AWS/Azure**, with hands-on **AI/LLM** features
 (RAG, embeddings, vector DBs) and **crypto/trading** integrations (multi-exchange feeds,
 execution gateways, risk controls). I care about clean architecture, Core Web Vitals, and
 developer ergonomics.
