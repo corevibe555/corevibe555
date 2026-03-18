@@ -3,9 +3,9 @@ Place this file in a repo named <your-username>/<your-username>
 It will render on your GitHub profile.
 -->
 
-<h1 align="center">Hello, world! 👋</h1>
+<h1 align="center">Open Source Contributor / Senior Software Engineer / Full-Stack / AI / Crypto</h1>
 <p align="center">
-  Open Source Contributor / Senior Software Engineer / Full-Stack / AI / Crypto
+  Team Collaboration & Contribution
 </p>
 
 <p align="center">
