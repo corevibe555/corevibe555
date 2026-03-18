@@ -5,7 +5,7 @@ It will render on your GitHub profile.
 
 <h1 align="center">Hello, world! 👋</h1>
 <p align="center">
-  Senior Software Engineer • Full-Stack JS • AI & Crypto/Trading
+  Open Source Contributor / Senior Software Engineer / Full-Stack / AI / Crypto
 </p>
 
 <p align="center">
