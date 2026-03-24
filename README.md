@@ -1,22 +1,56 @@
-# 🚀 AI Enthusiast | Machine Learning Engineer | Open Source Advocate  
+# 🤖 AI Architect | Full-Stack & Cloud Engineer | Open Source Advocate
 
-## About Me
-I’ve spent over a decade building intelligent systems that bridge the gap between human creativity and machine learning. My journey spans classical software engineering, cloud-native architectures, and cutting-edge AI solutions. Today, I focus on designing scalable AI models, deploying production-grade ML pipelines, and contributing to open-source projects that push the boundaries of intelligent software.
+Hi, I’m a **10+ year software engineer** shaping the AI era 🚀. I build **scalable AI systems**, architect **enterprise-grade software**, and contribute to **open-source projects** that push technology forward.  
 
-## Specialties
-- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, scikit-learn)  
-- **Natural Language Processing** (transformers, embeddings, generative AI)  
-- **Computer Vision & Data Science**  
-- **Cloud AI & MLOps** (AWS SageMaker, GCP AI Platform, Docker, Kubernetes)  
-- **Open Source Contribution & Community Leadership**  
+---
 
-## What I’m Working On
-- Developing generative AI tools for real-world applications  
-- Building open-source ML libraries for efficient model deployment  
-- Exploring multimodal AI models for vision + language tasks  
+## 💡 Expertise
 
-## Why I’m Here
-I love collaborating with passionate developers and researchers. On GitHub, you’ll find projects that span from production-ready AI pipelines to experimental models pushing the limits of generative intelligence. Let’s create the AI-powered future together.
+### **AI & Machine Learning**
+- Generative AI & LLMs (Transformers, Diffusion, Foundation Models)  
+- NLP, Computer Vision & Multimodal Models  
+- Reinforcement Learning, Edge AI & AI Safety  
+- MLOps & Model Deployment (Docker, Kubernetes, AWS SageMaker, Azure ML)  
 
-## Fun Fact
-I’ve been coding since before AI was mainstream… and I still get excited when a model finally converges.
+### **Full-Stack Development**
+- **Frontend:** JavaScript, TypeScript, React, Vue, Angular  
+- **Backend:** Python (FastAPI, Django), C# (.NET Core), Node.js, Go  
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, Redis  
+- **APIs & Integration:** REST, GraphQL, gRPC, WebSockets  
+
+### **Cloud & DevOps**
+- **Cloud Platforms:** AWS, Azure, GCP  
+- **Infrastructure & Automation:** Terraform, Ansible, CI/CD (GitHub Actions, Jenkins)  
+- **Containerization & Orchestration:** Docker, Kubernetes, Helm  
+
+### **Data & Analytics**
+- Python (Pandas, NumPy, scikit-learn), R, SQL  
+- Big Data & Streaming: Spark, Kafka, Airflow  
+- Data Visualization: Matplotlib, Plotly, Power BI, Tableau  
+
+### **Open Source & Leadership**
+- Maintaining libraries and frameworks  
+- Mentoring devs, reviewing code, building communities  
+- Advocating for AI ethics and responsible AI  
+
+---
+
+## 🔭 Current Projects
+- Building **AI-powered dev tools** for productivity and automation  
+- Developing **open-source ML pipelines** for enterprise & research  
+- Researching **multimodal AI** combining text, vision, and audio  
+- Creating **full-stack cloud-native applications** with AI integration  
+
+---
+
+## 🌱 Always Learning
+- Cutting-edge LLM architectures & multimodal models  
+- Quantum computing & AI acceleration  
+- Scalable AI on the edge and IoT integration  
+
+---
+
+## ⚡ Fun Fact
+I’ve been coding since before “AI-first” was a thing… and I still get excited when a model finally converges or a full-stack system scales flawlessly.  
+
+---
