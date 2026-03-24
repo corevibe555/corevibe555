@@ -1,4 +1,4 @@
-# 🤖 AI Architect | Full-Stack & Cloud Engineer | Open Source Advocate
+# 🤖 AI Engineer | Full-Stack & Cloud Engineer | Open Source Advocate
 
 Hi, I’m a **10+ year software engineer** shaping the AI era 🚀. I build **scalable AI systems**, architect **enterprise-grade software**, and contribute to **open-source projects** that push technology forward.  
 
