@@ -1,20 +1,22 @@
-# 🚀 About Me
+# 🚀 AI Enthusiast | Machine Learning Engineer | Open Source Advocate  
 
-Full-stack developer working across **web, mobile, and cloud**.  
-Focused on **JS, C#, Python**, and building resilient, secure, high-performance systems.  
+## About Me
+I’ve spent over a decade building intelligent systems that bridge the gap between human creativity and machine learning. My journey spans classical software engineering, cloud-native architectures, and cutting-edge AI solutions. Today, I focus on designing scalable AI models, deploying production-grade ML pipelines, and contributing to open-source projects that push the boundaries of intelligent software.
 
----
+## Specialties
+- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, scikit-learn)  
+- **Natural Language Processing** (transformers, embeddings, generative AI)  
+- **Computer Vision & Data Science**  
+- **Cloud AI & MLOps** (AWS SageMaker, GCP AI Platform, Docker, Kubernetes)  
+- **Open Source Contribution & Community Leadership**  
 
-## 🧰 Tech Stack
+## What I’m Working On
+- Developing generative AI tools for real-world applications  
+- Building open-source ML libraries for efficient model deployment  
+- Exploring multimodal AI models for vision + language tasks  
 
-**Languages:** JavaScript, TypeScript, C#, Python, PHP  
-**Frontend:** React, Next.js (SSR/SSG/ISR), Angular, Vue 3, React Native  
-**Backend:** Node.js (Fastify / NestJS / Express), PHP/Laravel, C#/.NET, Python/FastAPI  
-**AI / LLM:** OpenAI / Azure OpenAI, LangChain, RAG, embeddings, Pinecone, Weaviate  
-**Crypto / Trading:** Binance, Coinbase, Kraken APIs, WebSockets, order routing, Backtrader  
-**Cloud:** AWS (Lambda, API Gateway, S3, CloudFront, RDS/DynamoDB, SNS/SQS, Kinesis, CDK), Azure (Functions, App Service, Service Bus, Key Vault)  
-**DevOps:** Docker, GitHub Actions  
-**Data & APIs:** PostgreSQL, TimescaleDB, MySQL, MongoDB, Redis, GraphQL / REST, OpenAPI / Swagger  
-**Best Practices:** Event-driven design, DDD / clean architecture, caching, idempotency, security by default, testing pyramid  
+## Why I’m Here
+I love collaborating with passionate developers and researchers. On GitHub, you’ll find projects that span from production-ready AI pipelines to experimental models pushing the limits of generative intelligence. Let’s create the AI-powered future together.
 
----
+## Fun Fact
+I’ve been coding since before AI was mainstream… and I still get excited when a model finally converges.
