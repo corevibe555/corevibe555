@@ -11,6 +11,7 @@ Hi, I’m a **10+ year software engineer** shaping the AI era 🚀. I build **sc
 - NLP, Computer Vision & Multimodal Models  
 - Reinforcement Learning, Edge AI & AI Safety  
 - MLOps & Model Deployment (Docker, Kubernetes, AWS SageMaker, Azure ML)  
+- Hugging Face (Transformers, Datasets, Tokenizers, model fine-tuning, inference pipelines, Hugging Face Hub)
 
 ### **Full-Stack Development**
 - **Frontend:** JavaScript, TypeScript, React, Vue, Angular  
@@ -51,6 +52,6 @@ Hi, I’m a **10+ year software engineer** shaping the AI era 🚀. I build **sc
 ---
 
 ## ⚡ Fun Fact
-I’ve been coding since before “AI-first” was a thing… and I still get excited when a model finally converges or a full-stack system scales flawlessly.  
+I’ve been coding since before “AI-first”—long enough to know when a model’s lying. 
 
 ---
