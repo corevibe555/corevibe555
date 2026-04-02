@@ -3,7 +3,9 @@
 Hi, I’m a **10+ year software engineer** shaping the AI era 🚀. I build **scalable AI systems**, architect **enterprise-grade software**, and contribute to **open-source projects** that push technology forward.  
 
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</p>
 ## 💡 Expertise
 
 ### **AI & Machine Learning**
