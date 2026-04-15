@@ -57,4 +57,3 @@ Hi, I’m a **10+ year software engineer** shaping the AI era 🚀. I build **sc
 I’ve been coding since before “AI-first”—long enough to know when a model’s lying. 
 
 ---
-
